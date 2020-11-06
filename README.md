@@ -32,6 +32,22 @@
   </a>
   <a href="#" >
     <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/languages/js.svg" alt="JS" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
+
+### 👇🏻 E com esses frameworks...
+<p align="left">
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
   </a>
   
   
