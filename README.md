@@ -54,7 +54,7 @@ Abaixo tem um pouco de mim, do que faço, do que uso, claro que tem muito mais, 
   </a> 
 </p>
 
-### 👇🏻 Alguns serviços e ferramentas que sei utilizar...
+### 👇🏻 Alguns serviços e ferramentas que utilizo...
 <p align="left">
   <a href="#" >
     <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
