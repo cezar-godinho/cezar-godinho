@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/cezargodinho/" target="_blank">
     <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-  <a href="skype:cezar.godinho?call">
+  <a href="skype:live:cezar.godinho@hotmail.com?call">
     <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/skype.svg" alt="Skype" style="vertical-align:top; margin:4px">
   </a>
   <a href="mailto:cezar.godinho@hotmail.com">
