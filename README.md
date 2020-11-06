@@ -1,5 +1,8 @@
 ### 👋 Olá, seja bem-vindo(a)!
 
+Aqui vc encontrará os meus projetos, meus estudos... um pouco do que aprendi e estou aprendendo.
+Abaixo tem um pouco de mim, do que faço, do que uso, claro que tem muito mais, caso queira saber é só acessar meu perfil no <a href="https://www.linkedin.com/in/cezargodinho/" > linkedin</a>.
+
 ### 📢 Você pode me encontrar... 
 <p align="left">
   <a href="https://www.linkedin.com/in/cezargodinho/" >
