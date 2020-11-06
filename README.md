@@ -48,7 +48,27 @@
   </a>
   <a href="#" >
     <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
+  </a> 
+</p>
+
+### 👇🏻 Alguns serviços e ferramentas que sei utilizar...
+<p align="left">
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
   </a>
-  
-  
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+  </a> 
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
+  </a> 
+  <a href="#" >
+    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
+  </a> 
 </p>
