@@ -23,7 +23,7 @@
 <p align='center'>
   🖥️ My current hardware configurations<br/><br/>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%209400f-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=whit" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i7%207700HQ-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=whit" /></a>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-rtx%202070-%252376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
  </p>
