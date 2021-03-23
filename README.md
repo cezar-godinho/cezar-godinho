@@ -1,79 +1,84 @@
-### 👋 Olá, seja bem-vindo(a)!
 
-Aqui vc encontrará os meus projetos, meus estudos... um pouco do que aprendi e estou aprendendo.
-Abaixo tem um pouco de mim, do que faço, do que uso, claro que tem muito mais, caso queira saber é só acessar meu perfil no <a href="https://www.linkedin.com/in/cezargodinho/" > linkedin</a>.
 
----
+<h1 align='center'>
+  Hi there 👋 I'm Cezar 👨‍💻
+</h1>
 
-### 📢 Você pode me encontrar... 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cezargodinho/" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/skype.svg" alt="Skype" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="mailto:cezar.godinho@hotmail.com">
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/outlook.svg" alt="E-mail" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5516991362487&text=Oi%20Cezar%2C%20tudo%20bem%3F" target="_blank">
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.instagram.com/cezar.godinho/">
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+<p align='center'>
+  A FullStack Developer from São Carlos/Jaú, Brazil.
+</p>
+
+
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/cezargodinho/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
 </p>
 
-### 👇🏻 Trabalho com essas linguagens...
-<p align="left">
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/languages/js.svg" alt="JS" style="vertical-align:top; margin:4px">
-  </a>  
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cezar-godinho&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
 </p>
 
-### 👇🏻 E com esses frameworks...
-<p align="left">
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
-  </a> 
+<p align='center'>
+  🖥️ My current hardware configurations<br/><br/>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%209400f-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=whit" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-rtx%202070-%252376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+ </p>
+
+ <p align='center'>
+ 🖥️ My Secondary PC<br/><br/>
+ <a href='#' style="cursor: default"><img src="https://img.shields.io/badge/MAC%20AIR-%25230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white&color=blue">
+   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%20L16G7-%25230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white&color=blue" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
+ </p>
+
+<p align='center'>
+  📱 How to talk to me: <a href='mailto:cezar.godinho@hotmail.com'>cezar.godinho@hotmail.com</a>
 </p>
 
-### 👇🏻 Alguns serviços e ferramentas que utilizo...
-<p align="left">
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="#" >
-    <img src="https://github.com/cezar-godinho/cezar-godinho/blob/main/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
-  </a> 
+<p align='center'>
+  <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=cezar-godinho&color=brightgreen"></a>
 </p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezar-godinho&hide=scss&theme=tokyonight">
+</p>
+
+<p align='center'>
+    Technology 🚀
+</p>
+<p align='center'>
+    <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img align="center" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img align="center" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
+    <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+    <img align="center" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    <img align="center" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img align="center" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+    <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</p>
+
+<details>
+  <summary>📃 About Me</summary>
+
+## Education 🚀
+
+- 📖 **Computer Technician**\
+📆 2019 - 2022\
+📍 **Federal Institute** - Petrolina - PE, Brazil
+
+## Experience 🚀
+
+- 👨‍💻 **Backend Developer**\
+📆 2020 - Moment\
+📍 **Robô Petro** - Petrolina, Brazil
+
+</details>
+
