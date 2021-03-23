@@ -63,15 +63,15 @@
 
 ## Education 🚀
 
-- 📖 **Computer Technician**\
-📆 2019 - 2022\
-📍 **Federal Institute** - Petrolina - PE, Brazil
+- 📖 **MBA - Machine Learning in Production**\
+📆 2021 - 2022\
+📍 **UFSCar** - São Carlos - SP, Brazil
 
 ## Experience 🚀
 
-- 👨‍💻 **Backend Developer**\
+- 👨‍💻 **FullStack Developer**\
 📆 2020 - Moment\
-📍 **Robô Petro** - Petrolina, Brazil
+📍 **Monitora** - São Carlos, Brazil
 
 </details>
 
