@@ -25,14 +25,7 @@
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i7%207700HQ-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=whit" /></a>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-rtx%202070-%252376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
- </p>
-
- <p align='center'>
- 🖥️ My Secondary PC<br/><br/>
- <a href='#' style="cursor: default"><img src="https://img.shields.io/badge/MAC%20AIR-%25230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white&color=blue">
-   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%20L16G7-%25230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white&color=blue" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-gtx%201060-%252376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
  </p>
 
 <p align='center'>
@@ -62,7 +55,7 @@
     <img align="center" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     <img align="center" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     <img align="center" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-    <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+    <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 </p>
 
 <details>
