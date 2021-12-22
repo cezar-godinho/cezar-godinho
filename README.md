@@ -71,7 +71,7 @@
 
 - 👨‍💻 **FullStack Developer**\
 📆 2020 - Moment\
-📍 **Monitora** - São Carlos, Brazil
+📍 **Serasa Experian** - São Carlos, Brazil
 
 </details>
 
